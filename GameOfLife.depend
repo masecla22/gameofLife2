@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1528216375 source:c:\users\megatron\desktop\my projects\gameoflife\main.cpp
+	<iostream>
+	<graphics.h>
+	<mattcore.h>
+	<mattmark.h>
+	"functions.h"
+
+1528216838 c:\users\megatron\desktop\my projects\gameoflife\functions.h
+	<iostream>
+	<graphics.h>
+	<mattcore.h>
+	<mattmark.h>
+
